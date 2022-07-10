@@ -3,6 +3,8 @@
 
 ## Problem Statement
 
+![equation](https://latex.codecogs.com/svg.image?kNN_{k}&space;\big(q\big)&space;=&space;&space;\big\{o&space;\in&space;D&space;|&space;d&space;\big(q,o\big)&space;&space;<&space;d&space;\big(q,\hat{o}\big)&space;\forall&space;&space;\hat{o}&space;&space;\in&space;D&space;&space;\big\}&space;&space;)
+
 ![equation](https://latex.codecogs.com/svg.image?RkNN_{k}\left&space;(&space;q&space;\right&space;)&space;=&space;p\in&space;D&space;|&space;q&space;\in&space;kNN_{k}\left(p\right))
 
 
