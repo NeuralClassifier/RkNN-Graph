@@ -2,7 +2,7 @@
 
 
 ## Problem Statement
-![equation]([https://latex.codecogs.com/svg.image?RkNN_{k}\left&space;(&space;q&space;\right&space;)&space;=&space;\left\{&space;p\in&space;D&space;|&space;q&space;\in&space;kNN_{k}\left(p\right)\right\}])
+![equation](https://latex.codecogs.com/svg.image?RkNN_{k}\left&space;(&space;q&space;\right&space;)&space;=&space;\left\{&space;p\in&space;D&space;|&space;q&space;\in&space;kNN_{k}\left(p\right)&space;\right\})
 
 
 Paper Link: [Click Here](https://link.springer.com/article/10.1007/s10586-020-03136-9)
