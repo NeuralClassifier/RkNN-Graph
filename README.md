@@ -11,7 +11,7 @@ Paper Link: [Click Here](https://link.springer.com/article/10.1007/s10586-020-03
 
 This repository contains the source code.
 
-  * `ODRA.py`: This python file gives only the source code for ODRA.
+  * `reverse_kNNG.py`: This python file gives only the source code for RkNN Graph.
   
 # Instructions
 The program is written in Python 3.8:
