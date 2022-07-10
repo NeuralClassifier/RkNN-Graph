@@ -1,8 +1,5 @@
 # Reverse k Nearest Neighbor Graph
 
-
-## Problem Statement
-
 ![equation](https://latex.codecogs.com/svg.image?kNN_{k}&space;\left(q\right)&space;=&space;o&space;\in&space;D&space;|&space;d&space;\left(q,o\right)&space;&space;<&space;d&space;\left(q,\hat{o}\right)&space;\forall&space;&space;\hat{o}&space;&space;\in&space;D&space;&space;)
 
 ![equation](https://latex.codecogs.com/svg.image?RkNN_{k}\left&space;(&space;q&space;\right&space;)&space;=&space;p\in&space;D&space;|&space;q&space;\in&space;kNN_{k}\left(p\right))
