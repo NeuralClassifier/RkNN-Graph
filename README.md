@@ -5,7 +5,7 @@
 ![equation](https://latex.codecogs.com/svg.image?RkNN_{k}\left&space;(&space;q&space;\right&space;)&space;=&space;p\in&space;D&space;|&space;q&space;\in&space;kNN_{k}\left(p\right))
 
 
-Paper Link: [Click Here](https://link.springer.com/article/10.1007/s10586-020-03136-9)
+Paper Link: [Click Here](https://dl.acm.org/doi/abs/10.1145/1142473.1142531?casa_token=uPwervhT3YwAAAAA:7mhtqtnHetpJb6_K8Uq1Nm_6JszSuu73kEbVMT82WqpzTbrpQHuS57vm9HZTkBn5tIQMw0c_D1hB)
 
 ## Content
 
