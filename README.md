@@ -2,7 +2,7 @@
 
 
 ## Problem Statement
-![equation](https://latex.codecogs.com/svg.image?RkNN_{k}\left&space;(&space;q&space;\right&space;)&space;=&space;\left\{&space;p\in&space;D&space;|&space;q&space;\in&space;kNN_{k}\left(p\right)&space;\right\})
+<img src="http://www.sciweavers.org/tex2img.php?eq=RkNN_%7Bk%7D%20%5Cbig%28q%5Cbig%29%20%3D%20%20%5Cbig%5C%7Bp%20%5Cin%20D%20%7C%20q%20%20%5Cin%20kNN_%7Bk%7D%28p%29%5Cbig%5C%7D%20%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="RkNN_{k} \big(q\big) =  \big\{p \in D | q  \in kNN_{k}(p)\big\}  " width="272" height="24" />
 
 
 Paper Link: [Click Here](https://link.springer.com/article/10.1007/s10586-020-03136-9)
